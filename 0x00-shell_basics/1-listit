@@ -1,3 +1,2 @@
 #!/bin/bash
-LISTCONTENT=`ls -l'
-echo "$LISTCONTENT"
+echo `ls -l`
