@@ -1,0 +1,1 @@
+Cover _shell_ basics
