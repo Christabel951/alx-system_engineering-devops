@@ -3,7 +3,7 @@
 
 i=0
 
-while [[ $i -gt 9 ]]; do
+until [[ $i -gt 9 ]]; do
     echo "Best School"
     ((i++))
 done
