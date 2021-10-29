@@ -4,9 +4,9 @@
 # luck from Italy for the 17th loop iteration and the rest of numbers
 # in range 1 - 20
 
-i=0
+i=1
 
-while [[ $i -le 19 ]]; do
+while [[ $i -le 20 ]]; do
     case "$i" in
         4)   printf "%d\nbad luck from China\n" $i
              ;;
