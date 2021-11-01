@@ -4,7 +4,7 @@
 
 i=0
 
-while [[ $i -le 11 ]]; do
+while [[ $i -le 12 ]]; do
     printf "Hour: %d\n" $i
     min=1
     while [[ $min -le 59 ]]; do
